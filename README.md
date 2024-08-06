@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I think i am funny all times😍😍**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/appidi-yashwanth-726a49294/"> Linkedin </a>
+<a href="https://www.linkedin.com/in/appidi-yashwanth-726a49294/"> <img src="https://www.bing.com/ck/a?!&&p=8032d54500fca07eJmltdHM9MTcyMjkwMjQwMCZpZ3VpZD0zYzFjYWQ5YS1mMjQzLTZiNjItMWFjNy1iZjczZjY0MzZkYzUmaW5zaWQ9NTYzNA&ptn=3&ver=2&hsh=3&fclid=3c1cad9a-f243-6b62-1ac7-bf73f6436dc5&u=a1L2ltYWdlcy9zZWFyY2g_cT1saW5rZWRpbiUyMGltYWdlJkZPUk09SVFGUkJBJmlkPTlBREZERTg4ODY1QzQxQkY5MjFEQjRCNDM4MzFFMTE2QTQ4OEQzRjY&ntb=1" </a>
  <p align="left">
 </p>
 
