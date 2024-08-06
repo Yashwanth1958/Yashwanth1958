@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanth1958&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth1958" /> </p>
 
-- 🌱 I’m currently learning **Reactjs ,nodejs ,express,Dsa in java**
+- 🌱 I’m currently learning **Reactjs,Node.js,Express.js,Dsa in java**
 
 - 📫 How to reach me **yashwantappidi@gmail.com**
 
